@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the projects and tasks completed in the 4th and 5th modules of the Data Science and Machine Learning course, focusing on Machine Learning (ML) and Deep Learning (DL).
 
+![pexels-tara-winstead-8386434](https://github.com/anurashikvk/DSML-machine-learning-and-Deep-Learning-task/assets/134492695/7d935c01-3268-48da-ba55-333271f6b751)
+
 ## Machine Learning Tasks
 
 ### Task 1: Insurance Claims Charges Prediction

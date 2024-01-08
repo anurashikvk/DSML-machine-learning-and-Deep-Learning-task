@@ -39,6 +39,8 @@ Explore the dataset using various types of data visualization and build ML model
 
 ## Deep Learning Tasks
 
+![pexels-pavel-danilyuk-8438922](https://github.com/anurashikvk/DSML-machine-learning-and-Deep-Learning-task/assets/134492695/af739497-a37e-4155-bc39-75a708ccd6ec)
+
 ### Task 1: MLP for Binary Classification
 - Use the Ionosphere binary classification dataset to demonstrate an MLP for binary classification.
 - Predict whether a structure is in the atmosphere or not.
